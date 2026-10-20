@@ -5,6 +5,7 @@ public class CountPositiveNegitiveZero {
         Scanner s = new Scanner(System.in);
         int n = s.nextInt();
         int[] a = new int[n];
+        
         int pos = 0;
         int neg = 0;
         int zero = 0;
